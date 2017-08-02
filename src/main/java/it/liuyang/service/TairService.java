@@ -1,10 +1,8 @@
 package it.liuyang.service;
 
 /**
- * TairService:
- *
- * @author LiuYang
- * @date 2017Äê08ÔÂ02ÈÕ 23:20
+ * @author Victor
+ * @date 2017å¹´08æœˆ02æ—¥ 23:24
  */
 public interface TairService {
 

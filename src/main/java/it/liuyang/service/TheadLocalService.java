@@ -2,7 +2,7 @@ package it.liuyang.service;
 
 /**
  * @author Victor
- * @date 2017Äê08ÔÂ02ÈÕ 23:24
+ * @date 2017å¹´08æœˆ02æ—¥ 23:24
  */
 public interface TheadLocalService {
 
