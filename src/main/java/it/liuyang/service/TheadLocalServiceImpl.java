@@ -5,10 +5,8 @@ import org.springframework.stereotype.Service;
 import javax.annotation.Resource;
 
 /**
- * TheadLocalServiceImpl:
- *
- * @author LiuYang
- * @date 2017年08月02日 23:25
+ * @author Victor
+ * @date 2017年08月02日 23:24
  */
 @Service
 public class TheadLocalServiceImpl implements TheadLocalService {

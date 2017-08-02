@@ -1,9 +1,7 @@
 package it.liuyang.service;
 
 /**
- * TheadLocalService:
- *
- * @author LiuYang
+ * @author Victor
  * @date 2017Äê08ÔÂ02ÈÕ 23:24
  */
 public interface TheadLocalService {

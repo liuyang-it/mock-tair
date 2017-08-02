@@ -3,10 +3,8 @@ package it.liuyang.service;
 import org.springframework.stereotype.Service;
 
 /**
- * RdbTairServiceImpl:
- *
- * @author LiuYang
- * @date 2017年08月02日 23:21
+ * @author Victor
+ * @date 2017年08月02日 23:24
  */
 @Service("rdbTairServiceImpl")
 public class RdbTairServiceImpl implements TairService {
